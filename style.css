@@ -1,0 +1,60 @@
+div , body{
+    margin: 0 !important;
+    padding: 0 !important;
+
+}
+.all{
+    width: 100%;
+    position: fixed;
+    top: 0;
+    bottom: 0;
+
+}
+.alls{
+    height: 100%;
+}
+#title{
+
+    height: 10%;
+    margin: auto;
+    width: 100% !important;
+}
+#tool{
+    height: 5%;
+    width: 100% !important;
+}
+#chat{
+    height: 75%;
+    padding-top: 20px !important;
+
+}
+#chat-form{
+    height: 10%;
+    bottom: 0;
+    color: #ae81ff;
+
+}
+textarea:focus, input:focus{
+    color: deepskyblue;
+    font-weight: bold;
+}
+#chat{
+
+}
+#chat p span {
+
+}
+p{
+    padding-left: 10px !important;
+    color: #62D9EF;
+    font-family: 'ABeeZee',sans-serif !important;
+    font-size: small;
+
+}
+h1
+{
+    text-align: justify;
+    text-align: center;
+    font-family: Garamond, Baskerville, "Baskerville Old Face", "Hoefler Text", "Times New Roman", serif;
+    color: #D12672;
+}

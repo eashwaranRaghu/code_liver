@@ -1,0 +1,33 @@
+{
+  "name": "y-indexeddb",
+  "version": "8.1.9",
+  "homepage": "http://y-js.org",
+  "authors": [
+    "Kevin Jahns <kevin.jahns@rwth-aachen.de>"
+  ],
+  "description": "IndexedDB database adapter for Yjs",
+  "main": "./y-indexeddb.js",
+  "keywords": [
+    "Yjs",
+    "OT",
+    "Collaboration",
+    "Synchronization",
+    "ShareJS",
+    "Coweb",
+    "Concurrency"
+  ],
+  "license": "MIT",
+  "ignore": [],
+  "dependencies": {
+    "yjs": "^9.0.0 || ^10.0.0 || ^11.0.0 || ^12.0.0"
+  },
+  "_release": "8.1.9",
+  "_resolution": {
+    "type": "version",
+    "tag": "v8.1.9",
+    "commit": "ca63fff250db64126829ab7fa6b60bf1dba3c35c"
+  },
+  "_source": "https://github.com/y-js/y-indexeddb.git",
+  "_target": "*",
+  "_originalSource": "y-indexeddb"
+}
